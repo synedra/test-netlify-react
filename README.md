@@ -2,6 +2,8 @@
 
 This repository contains an React app that works with a locally running instance of [FusionAuth](https://fusionauth.io/), the authentication and authorization platform.
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/synedra/fusionauth-quickstart-javascript-react-web)
+
 ## Setup
 
 ### Prerequisites
