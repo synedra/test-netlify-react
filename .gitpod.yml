@@ -1,0 +1,15 @@
+tasks:
+  
+
+  # ------------------------------------
+  # Start FusionAuth in Docker
+  # ------------------------------------
+  - name: fusionauth-server
+    init: |
+      docker compose up
+  # --------------------------------------
+  #  SETUP CQLSH and Create DB Workshop
+  # --------------------------------------
+  - name: working-terminal
+    command: |
+      echo "Welcome to the FusionAuth GitPod instance"
