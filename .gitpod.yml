@@ -8,7 +8,7 @@ tasks:
     init: |
       docker compose up
   # --------------------------------------
-  #  SETUP CQLSH and Create DB Workshop
+  #  Start working terminal
   # --------------------------------------
   - name: working-terminal
     command: |
