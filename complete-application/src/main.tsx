@@ -9,7 +9,7 @@ import {
 } from "@fusionauth/react-sdk";
 
 const config: FusionAuthProviderConfig = {
-  clientId: "e9fdb985-9173-4e01-9d73-ac2d60d1dc8e",
+  clientId: "017eb80c-23e6-4180-ae45-333cd0108463",
   redirectUri: "https://test-netlify-react.vercel.app",
   postLogoutRedirectUri: "https://test-netlify-react.vercel.app/logged-out",
   serverUrl: "http://dx.fusionauth.io",
