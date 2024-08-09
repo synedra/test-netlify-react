@@ -12,7 +12,7 @@ const config: FusionAuthProviderConfig = {
   clientId: "017eb80c-23e6-4180-ae45-333cd0108463",
   redirectUri: "https://test-netlify-react.vercel.app",
   postLogoutRedirectUri: "https://test-netlify-react.vercel.app/logged-out",
-  serverUrl: "http://dx.fusionauth.io",
+  serverUrl: "https://dx.fusionauth.io",
   shouldAutoFetchUserInfo: true,
   shouldAutoRefresh: true,
   onRedirect: (state?: string) => {
